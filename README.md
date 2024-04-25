@@ -14,6 +14,13 @@ The primary goal of this project is to create a robust on-chain dashboard that p
 - **Transparency and Reliability:** Direct blockchain integration ensures data accuracy, enhancing trust in DeFi metrics presented.
 - **User Empowerment:** With better tools at their disposal, users can perform more detailed and informed analysis, which is crucial for managing investments in a volatile market.
 
+The following visualization metrics could be employed, but not limited to:
+- **Whale Tracking**
+- **Smart Money Tracking**
+- **Volume Analysis**
+- **Derivative Analysis**
+
+
 This project is particularly interesting due to the increasing fragmentation of the DeFi landscape. As more chains host significant DeFi activities, a tool that provides an integrated view will be invaluable.
 
 #### Data Collection and Visualization
